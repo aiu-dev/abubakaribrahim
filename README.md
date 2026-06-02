@@ -10,7 +10,7 @@ This responsive portfolio serves as a central hub for my work, featuring interac
 
 I am a Computer Science student and a professional developer specializing in **Web Development**, **Software Development**, and **Data Analytics**. I bridge the gap between robust logic and fluid, user-centric interfaces. 
 
-* **GitHub:** [@abubakar1239](https://github.com/abubakar1239)
+* **GitHub:** [@abubakar1239](https://github.com/aiu-dev)
 * **Email:** assiddeeqdev@gmail.com
 
 ---
@@ -34,5 +34,4 @@ I am a Computer Science student and a professional developer specializing in **W
 Here are some of the key projects highlighted in this portfolio:
 
 1. **Pulse Dashboard:** A real-time team collaboration and performance dashboard built during my frontend development internship.
-2. **Student Report Sheet Generator:** A practical tool designed to streamline academic data input, automatically calculating grades and generating clean student report sheets using vanilla JavaScript.
-3. **Automated Dev Environment (Project 1):** An ongoing project focused on optimizing and automating UI development workflows directly within the Termux CLI environmen
+2. **Student Report Sheet Generator:** A practical tool designed to streamline academic data input, automatically calculating grades and generating clean student report sheets using vanilla JavaScript.en
