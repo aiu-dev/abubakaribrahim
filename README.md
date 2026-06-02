@@ -10,7 +10,7 @@ This responsive portfolio serves as a central hub for my work, featuring interac
 
 I am a Computer Science student and a professional developer specializing in **Web Development**, **Software Development**, and **Data Analytics**. I bridge the gap between robust logic and fluid, user-centric interfaces. 
 
-* **GitHub:** [@abubakar1239](https://github.com/aiu-dev)
+* **GitHub:** [@aiu-dev](https://github.com/aiu-dev)
 * **Email:** assiddeeqdev@gmail.com
 
 ---
